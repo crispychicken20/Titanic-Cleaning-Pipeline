@@ -21,3 +21,9 @@ This project cleans and standardizes a raw Titanic passenger dataset, handles mi
 ## Output focus
 
 The final report is designed to make survival trends easier to compare across major passenger demographics.
+
+## Command to create a clean CSV file
+
+```bash
+bash titanic-cleaner.sh titanic-dataset.csv titanic-clean.csv
+```
